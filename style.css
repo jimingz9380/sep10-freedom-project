@@ -1,3 +1,6 @@
+body
+
+
 .mg-h1 {
     background-image: url(img/business.jpeg);
     background-size: cover;
@@ -5,4 +8,24 @@
     padding-top:15rem;
     padding-bottom:15rem;
     height: auto;
+}
+
+.size {
+    width:100px;
+    padding-right:1rem;
+}
+
+.head-main{
+    text-align:center;
+    background-color:black;
+    color:white;
+    border-radius: 5px;
+}
+
+.head {
+    background-color:black;
+    color:white;
+    border-radius: 5px;
+    padding-left:20px;
+   
 }
