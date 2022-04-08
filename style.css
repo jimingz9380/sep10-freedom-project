@@ -35,5 +35,6 @@ body{
 }
 
 .width{
-    width:100%;
+    width:90%;
+    padding-bottom:4rem;
 }
