@@ -1,6 +1,7 @@
 body{
     font-family:'Lobster', cursive;
-    
+    background-color: #70DCE7;
+    font-size:2rem;
 }
 
 
@@ -8,11 +9,24 @@ body{
     background-image: url(img/business.jpeg);
     background-size: cover;
     text-align:center;
-    padding-top:15rem;
-    padding-bottom:15rem;
+    padding-top:25rem;
+    padding-bottom:25rem;
     height: auto;
     width: auto;
 }
+
+.pd-h{
+    font-size:100px;
+}
+
+.mg-body{
+    padding-top:5rem;
+    padding-bottom:5rem;
+    padding-right:20px;
+    padding-left:20px;
+    background:linear-gradient(65deg,white, grey);
+}
+
 
 .size {
     width:100px;
@@ -24,6 +38,8 @@ body{
     background-color:black;
     color:white;
     border-radius: 5px;
+    margin-bottom:0px;
+
 }
 
 .head {
@@ -35,6 +51,16 @@ body{
 }
 
 .width{
-    width:90%;
+    width:100%;
     padding-bottom:4rem;
+}
+
+.cs{
+    font-size:1rem;
+    text-align:center;
+}
+
+
+.pic-bg{
+    background-color:;
 }
