@@ -2,6 +2,7 @@ body{
     font-family:'Lobster', cursive;
     background-color: #70DCE7;
     font-size:2rem;
+    line-height:2 ;
 }
 
 
@@ -62,5 +63,6 @@ body{
 
 
 .pic-bg{
-    background-color:;
+    background-color:#0ABAF4;
+    padding: 10px;
 }
