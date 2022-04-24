@@ -62,9 +62,10 @@ body{
     text-align:center;
 }
 
-.cs{
+.color{
     font-size:1rem;
     text-align:center;
+    background-color: blue;
 }
 
 
