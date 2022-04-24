@@ -1,6 +1,5 @@
 body{
     font-family:'Lobster', cursive;
-    background-color: #70DCE7;
     font-size:2rem;
     line-height:2 ;
 }
@@ -22,13 +21,19 @@ body{
 
 .mg-body{
     padding-top:5rem;
-    padding-bottom:5rem;
+    padding-bottom:2rem;
     padding-right:20px;
     padding-left:20px;
     background:linear-gradient(65deg,white, grey);
 }
 
-
+.box1{
+    background-color:#41E0F7;
+    border-color:black;
+    border-width: 5px;
+    border-radius:2px;
+    padding: 0px 2rem;
+}
 .size {
     width:100px;
     padding-right:1rem;
@@ -54,6 +59,7 @@ body{
 .width{
     width:100%;
     padding-bottom:4rem;
+    text-align:center;
 }
 
 .cs{
@@ -65,4 +71,8 @@ body{
 .pic-bg{
     background-color:#0ABAF4;
     padding: 10px;
+}
+
+.ending{
+    font-size:3rem;
 }
