@@ -28,11 +28,11 @@ body{
 }
 
 .box1{
-    background-color:#41E0F7;
+    background-color:White;
     border-color:black;
     border-width: 5px;
     border-radius:2px;
-    padding: 0px 2rem;
+    padding: 0px 5px;
 }
 .size {
     width:100px;
@@ -41,7 +41,7 @@ body{
 
 .head-main{
     text-align:center;
-    background-color:black;
+    background-color:#a358e0;
     color:white;
     border-radius: 5px;
     margin-bottom:0px;
@@ -49,7 +49,7 @@ body{
 }
 
 .head {
-    background-color:black;
+    background-color:#a358e0;
     color:white;
     border-radius: 5px;
     padding-left:20px;
@@ -76,4 +76,8 @@ body{
 
 .ending{
     font-size:3rem;
+}
+
+.context-bg{
+    background-color: #2fa7cc;
 }
