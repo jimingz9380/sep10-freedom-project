@@ -7,7 +7,7 @@ body{
 
 .mg-h1 {
     background-image: url(img/business.jpeg);
-    background-size: cover;
+    background-size: 100% 100%;
     text-align:center;
     padding-top:25rem;
     padding-bottom:25rem;
