@@ -7,10 +7,11 @@ body{
 
 .mg-h1 {
     background-image: url(img/business.jpeg);
-    background-size: 100% 100%;
+    background-size: 100%;
     text-align:center;
     padding-top:25rem;
     padding-bottom:25rem;
+    background-repeat: no-repeat;
     height: auto;
     width: auto;
 }
@@ -80,4 +81,21 @@ body{
 
 .context-bg{
     background-color: #2fa7cc;
+}
+
+.future-bg{
+    background-color: #1472e3;
+}
+
+.background-image{
+    background-image:url(img/cloud.png);
+    background-repeat: no-repeat;
+    width:100%;
+    background-size: 100%;
+    
+    
+}
+
+.background-color{
+    background-color:#2fa7cc;
 }
