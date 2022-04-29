@@ -21,10 +21,7 @@ body{
 }
 
 .mg-body{
-    padding-top:5rem;
-    padding-bottom:2rem;
-    padding-right:20px;
-    padding-left:20px;
+    padding-top:5rem 2rem 2rem 2rem;
     background:linear-gradient(65deg,white, grey);
 }
 
@@ -35,6 +32,7 @@ body{
     border-radius:2px;
     padding: 0px 5px;
 }
+
 .size {
     width:100px;
     padding-right:1rem;
@@ -87,12 +85,13 @@ body{
     background-color: #1472e3;
 }
 
+
 .background-image{
     background-image:url(img/cloud.png);
     background-repeat: no-repeat;
     width:100%;
     background-size: 100%;
-    
+    padding:2rem 10rem;
     
 }
 
