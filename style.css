@@ -7,12 +7,12 @@ body{
 
 .mg-h1 {
     background-image: url(img/business.jpeg);
-    background-size: 100%;
+    
     text-align:center;
     padding-top:25rem;
     padding-bottom:25rem;
     background-repeat: no-repeat;
-    height: auto;
+    background-size: 100% 100%;
     width: auto;
 }
 
@@ -22,7 +22,7 @@ body{
 
 .mg-body{
     padding-top:5rem 2rem 2rem 2rem;
-    background:linear-gradient(65deg,white, grey);
+    background-color:white;
 }
 
 .box1{
@@ -36,6 +36,10 @@ body{
 .size {
     width:100px;
     padding-right:1rem;
+}
+
+.list-size {
+    font-size:1.6rem;
 }
 
 .head-main{
@@ -82,7 +86,7 @@ body{
 }
 
 .future-bg{
-    background-color: #1472e3;
+    background-color: #148fdb;
 }
 
 
@@ -90,11 +94,16 @@ body{
     background-image:url(img/cloud.png);
     background-repeat: no-repeat;
     width:100%;
-    background-size: 100%;
-    padding:2rem 10rem;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+    padding:2rem 5rem;
     
 }
 
 .background-color{
     background-color:#2fa7cc;
+}
+
+.text-css{
+    padding:1rem ;
 }
