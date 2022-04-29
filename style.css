@@ -107,3 +107,7 @@ body{
 .text-css{
     padding:1rem ;
 }
+
+.p-font{
+    font-family: 'Overpass', sans-serif;
+}
