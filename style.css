@@ -7,17 +7,18 @@ body{
 
 .mg-h1 {
     background-image: url(img/business.jpeg);
-    
+
     text-align:center;
     padding-top:25rem;
     padding-bottom:25rem;
     background-repeat: no-repeat;
     background-size: 100% 100%;
     width: auto;
+
 }
 
 .pd-h{
-    font-size:100px;
+    font-size:5rem;
 }
 
 .mg-body{
@@ -97,7 +98,7 @@ body{
     background-attachment: fixed;
     background-size: 100% 100%;
     padding:2rem 5rem;
-    
+
 }
 
 .background-color{
@@ -110,4 +111,30 @@ body{
 
 .p-font{
     font-family: 'Overpass', sans-serif;
+}
+
+
+
+
+
+/*<!-- chanry code-->*/
+
+
+
+/*.large-text-size {*/
+/*    font-size: 60px;*/
+/*}*/
+
+.centered {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+/*.opacity {*/
+/*    opacity: 0.5;*/
+/*}*/
+.container-custome {
+    position: relative;
+    text-align: center;
 }
