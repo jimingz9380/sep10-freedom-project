@@ -116,11 +116,10 @@ body{
 
 .end{
     text-align:center;
+    padding: 1rem 5px;
 }
 
-.end-color{
-    background: green gradient(grey,white,black,blue,red);
-}
+
 
 
 
