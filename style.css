@@ -75,7 +75,7 @@ body{
 
 .pic-bg{
     background-color:#0ABAF4;
-    padding: 10px;
+    padding: 1rem;
 }
 
 .ending{
@@ -137,6 +137,7 @@ body{
     left: 50%;
     transform: translate(-50%, -50%);
     font-size: 5rem;
+    color: White;
 }
 /*.opacity {*/
 /*    opacity: 0.5;*/
